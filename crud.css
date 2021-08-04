@@ -1,0 +1,36 @@
+/* 
+@import url('https://fonts.googleapis.com/css2?family=Uchen&display=swap');
+
+*{
+    font-family: 'Uchen', serif;
+} */
+/* .fullwidth {
+width:100%;
+margin-left:15px;
+margin-right:0;
+padding-left:0;
+padding-right:15px;
+display:block;
+text-align:center; /*This will result in centering the link text, which is probably what you want -brianjohnsondesign.com*/
+
+.fullwidth:hover{
+    color: #ffff;
+}
+
+.addUser:hover{
+    color: #ffff;
+    background-color:darkturquoise
+}
+/* 
+.Title{
+    text-align: center;
+} */
+
+.navHover:hover{
+    color:cyan;
+}
+
+.button{
+    
+    margin-right: 10px;
+}
